@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealName": "Estándar Plus",
+            "subtitle": "Perfecto para viajes cortos",
+            "tag1": "Una pequeña bolsa de cabina debajo del asiento (máximo 45 x 36 x 20 cm)",
+            "icon1": "https://www.easyjet.com/ejcms/cache/medialibrary/Images/Global/Main-III/Small-Icons/Cabin-Bags/Small-Cabin-Bag-Orange.svg",
+            "icon2": "https://www.easyjet.com/ejcms/cache/medialibrary/Images/Global/Main-III/Small-Icons/Cabin-Bags/Large-Cabin-Bag-Orange.svg",
+            "tag2": "Una maleta de mano grande (máximo 56 x 45 x 25 cm)",
+            "tag3": "Asiento delantero arriba",
+            "icon3": "https://www.easyjet.com/ejcms/cache/medialibrary/Images/Global/Main-III/Small-Icons/new-seat-icon-orange.svg",
+        },
+        {
+            "dealName": "bolsa de bodega de 23 kg",
+            "subtitle": "€31.99 £ por vuelo*",
+            "icon1":"https://www.easyjet.com/ejcms/cache/medialibrary/Images/Global/Main-III/Luggage/Tiled/DL3298-Baggage-Icons-Black-Luggage-NEW-23kg-Dim7.png"
+        },
+        {
+            "dealName": "Vale de comida y bebida a bordo: añádelo online y ahorra un 20%",
+            "subtitle":"Añade bonos para tus vuelos",
+            "icon1":"https://i.ibb.co/7Kbq3sx/Screenshot-2023-10-30-at-14-02-57.png"
+        }
+    ]
+}
