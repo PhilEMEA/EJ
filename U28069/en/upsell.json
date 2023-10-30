@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "dealName": "Standard Plus",
+            "subtitle": "Perfect for short trips",
+            "tag1": "One small under seat cabin bag (max 45 x 36 x 20 cm)",
+            "icon1": "https://www.easyjet.com/ejcms/cache/medialibrary/Images/Global/Main-III/Small-Icons/Cabin-Bags/Small-Cabin-Bag-Orange.svg",
+            "icon2": "https://www.easyjet.com/ejcms/cache/medialibrary/Images/Global/Main-III/Small-Icons/Cabin-Bags/Large-Cabin-Bag-Orange.svg",
+            "tag2": "One large cabin bag (max 56 x 45 x 25 cm)",
+            "tag3": "Up Front seat",
+            "icon3": "https://www.easyjet.com/ejcms/cache/medialibrary/Images/Global/Main-III/Small-Icons/new-seat-icon-orange.svg",
+        },
+        {
+            "dealName": "23kg hold bag",
+            "subtitle": "£31.99 per flight*",
+            "icon1":"https://www.easyjet.com/ejcms/cache/medialibrary/Images/Global/Main-III/Luggage/Tiled/DL3298-Baggage-Icons-Black-Luggage-NEW-23kg-Dim7.png"
+        },
+        {
+            "dealName": "Food and drink voucher on board - add online and save 20%",
+            "subtitle":"Add vouchers for your flights".
+            "icon1":"https://www.easyjet.com/ejcms/cache/medialibrary/Images/Content/Vouchers/DL6596---EDS---In-Funnel-Vouchers---IFR-300x260px---EN.jpg?&la=en"
+        }
+    ]
+}
