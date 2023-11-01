@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "dealName": "Find your Perfect easyJet holiday",
+            "subtitle": "Medplaya Hotel Balmoral",
+            "icon1": "https://www.easyjet.com/holidays/_next/image?url=https%3A%2F%2Feasyjet-holidays-images-prod.s3-eu-west-1.amazonaws.com%2FESCD0051_Medplaya_Balmoral%2FLarge%2FESCD0051_14.jpg&w=1920&q=75"
+        },
+        {
+            "dealName": "Are you taking a bike again?",
+            "subtitle": "£45.00 per flight*",
+            "icon1":"https://www.easyjet.com/ejcms/cache/medialibrary/Images/Widgets/Baggage/Bicycle.png"
+        },
+        {
+            "dealName": "Need another car?",
+            "subtitle":"Seat Ibiza from £12.38 a day",
+            "icon1":"https://ctimg-fleet.cartrawler.com/seat/ibiza/primary.png?auto=format&fm=pjpeg&usm=11&usmrad=16&shad=15&dpr=1&w=350&h=&fit=&flip=h"
+        }
+    ]
+}
